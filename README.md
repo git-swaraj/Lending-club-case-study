@@ -46,10 +46,10 @@ In other words, the company wants to understand the driving factors (or driver v
 ## Acknowledgements
 Give credit here.
 - This project was inspired by EDA session by Upgrad
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by
+Swaraj Kumar​
+Gagan Banga
 
 
 <!-- Optional -->
